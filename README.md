@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning JS<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I once wrote a program that generated infinite loop... accidentally. It took me a cup of coffee, two naps, and a rubber duck debugging session to fix it! ☕🦆</p>
+<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning JS<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: One day, I encountered a particularly tricky bug in my Java program that seemed to defy all logic. After spending hours staring at the code and scratching my head, I decided to take a break. It took two cups of coffee, a refreshing nap, and a change of perspective to finally crack the problem. Sometimes, the best way to tackle a coding challenge is to step away, recharge, and return with a fresh mindset. Turns out, a well-caffeinated brain and a power nap can be the perfect debugging tools! ☕🦆</p>
 
 ###
 
