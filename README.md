@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Rahul Kumar Srivastava and I'm currently learning Full Stack Developer course from Acciojob.</p>
+<p align="left">My name is Rahul Srivastava and I'm currently learning Full Stack Developer course from Acciojob.</p>
 
 ###
 
