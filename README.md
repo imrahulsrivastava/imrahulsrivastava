@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul Srivastava and I'm a MERN Stack Developer, from Varanasi, Uttar Pradesh, India</p>
+<p align="left">My name is Rahul Srivastava and I'm a Full Stack Web Developer (MERN)</p>
 
 ###
 
